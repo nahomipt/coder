@@ -1,0 +1,40 @@
+body{background-color:rgb(252, 202, 197) ;}
+p{color:black; font-family: cursive; font-size: 20px;}
+img{float: center ;width: 300px; 
+margin:auto;border-radius: 15px ;
+border: solid rgb(233, 110, 110);}
+
+#zona-encabezado 
+    {width: 100%;
+    background-color:rgb(219, 137, 137);}
+.texto-encabezado 
+ { text-align: center;
+    font-family: cursive;
+    font-size: 12pt;
+    color: black;}
+    #zona-imagenes 
+    {  width: 100%;
+        background-color:rgb(219, 137, 137);
+       text-align: center; }
+   
+   .texto-cuerpo 
+    { background-color:rgb(219, 137, 137) ;  
+     font-family: cursive;       
+     font-size: 12pt;
+     color: black;}
+    
+    ul
+    {background-color:rgb(219, 137, 137);font-family: cursive;}
+
+    li
+    {color: black;}
+      
+   #zona-final   
+    {width: 100%;
+       background-color:rgb(219, 137, 137)}
+     h1{text-align: center;
+    font-family:'Times New Roman', Times, serif;}
+    body{background-color: rgb(252, 202, 197);}
+   #cuerpo2{background-color:rgb(252, 202, 197);}
+   #first{background-color: rgb(252, 202, 197);}
+ 
